@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bikalb
 - 👀 I’m currently working mostly as a functional QA Analyst
 - 🌱 I’m looking to learning javascript
-- 📫 I can be reached at 
+- 📫 I can be reached at bikal.bhandari@gmail.com 
 
 <!---
 bikalb/bikalb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
